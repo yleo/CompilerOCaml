@@ -1,0 +1,39 @@
+Les exemples :
+
+Chaque exemple montre un aspect du compilateur qui fonctionne. On verra par exemple, un exemple d'appel récursif ou encore des exemples pour montrer que les tableaux peuvent être passé en argument, etc...
+
+1) Les appels récursifs : 
+- facto.pas (factorielle)
+- fibo.pas (fibonacci)
+
+On s'est convaincu que les appels récursifs marchent bien.
+
+2) Tableaux en général :
+- fibo_tab.pas (mets les valeurs de fibonacci dans un tableau)
+- tableau.pas (vérifie plein de choses sur les tableaux)
+
+3) Longueur : on a testé sur des grands programmes :
+
+- overflow.pas (met plein de variables à 0 et les écrit)
+- big_array.pas
+- lot_of_arguments.pas (On peut mettre beaucoup d'arguments même si cela met un certain temps à compiler : coloration)
+
+4) Affichage :
+
+- power_of_writeln.pas
+
+5) Passage par référence :
+
+- pas_by_ref.pas
+
+6) Variable utilisé par la descendance :
+
+- usedbydesc.pas
+
+7) on se rassure :
+while.pas (on ne l'avait pas testé auparavant...)
+
+
+
+
+

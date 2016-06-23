@@ -1,0 +1,436 @@
+"src/util.ml" 22 1324 1330 "src/util.ml" 22 1324 1337
+type(
+  X.t * Y.t -> X.t * Y.t -> int
+)
+"src/util.ml" 22 1324 1339 "src/util.ml" 22 1324 1341
+type(
+  X.t
+)
+"src/util.ml" 22 1324 1343 "src/util.ml" 22 1324 1345
+type(
+  Y.t
+)
+"src/util.ml" 22 1324 1338 "src/util.ml" 22 1324 1346
+type(
+  X.t * Y.t
+)
+"src/util.ml" 22 1324 1348 "src/util.ml" 22 1324 1350
+type(
+  X.t
+)
+"src/util.ml" 22 1324 1352 "src/util.ml" 22 1324 1354
+type(
+  Y.t
+)
+"src/util.ml" 22 1324 1347 "src/util.ml" 22 1324 1355
+type(
+  X.t * Y.t
+)
+"src/util.ml" 23 1358 1366 "src/util.ml" 23 1358 1368
+type(
+  int
+)
+"src/util.ml" 23 1358 1371 "src/util.ml" 23 1358 1380
+type(
+  X.t -> X.t -> int
+)
+"src/util.ml" 23 1358 1381 "src/util.ml" 23 1358 1383
+type(
+  X.t
+)
+"src/util.ml" 23 1358 1384 "src/util.ml" 23 1358 1386
+type(
+  X.t
+)
+"src/util.ml" 23 1358 1371 "src/util.ml" 23 1358 1386
+type(
+  int
+)
+"src/util.ml" 24 1390 1397 "src/util.ml" 24 1390 1399
+type(
+  int
+)
+"src/util.ml" 24 1390 1400 "src/util.ml" 24 1390 1402
+type(
+  int -> int -> bool
+)
+"src/util.ml" 24 1390 1403 "src/util.ml" 24 1390 1404
+type(
+  int
+)
+"src/util.ml" 24 1390 1397 "src/util.ml" 24 1390 1404
+type(
+  bool
+)
+"src/util.ml" 24 1390 1410 "src/util.ml" 24 1390 1412
+type(
+  int
+)
+"src/util.ml" 24 1390 1418 "src/util.ml" 24 1390 1427
+type(
+  Y.t -> Y.t -> int
+)
+"src/util.ml" 24 1390 1428 "src/util.ml" 24 1390 1430
+type(
+  Y.t
+)
+"src/util.ml" 24 1390 1431 "src/util.ml" 24 1390 1433
+type(
+  Y.t
+)
+"src/util.ml" 24 1390 1418 "src/util.ml" 24 1390 1433
+type(
+  int
+)
+"src/util.ml" 24 1390 1394 "src/util.ml" 24 1390 1433
+type(
+  int
+)
+"src/util.ml" 23 1358 1362 "src/util.ml" 24 1390 1433
+type(
+  int
+)
+"src/util.ml" 29 1512 1518 "src/util.ml" 29 1512 1523
+type(
+  X.t * Y.t -> X.t * Y.t -> bool
+)
+"src/util.ml" 29 1512 1525 "src/util.ml" 29 1512 1527
+type(
+  X.t
+)
+"src/util.ml" 29 1512 1529 "src/util.ml" 29 1512 1531
+type(
+  Y.t
+)
+"src/util.ml" 29 1512 1524 "src/util.ml" 29 1512 1532
+type(
+  X.t * Y.t
+)
+"src/util.ml" 29 1512 1534 "src/util.ml" 29 1512 1536
+type(
+  X.t
+)
+"src/util.ml" 29 1512 1538 "src/util.ml" 29 1512 1540
+type(
+  Y.t
+)
+"src/util.ml" 29 1512 1533 "src/util.ml" 29 1512 1541
+type(
+  X.t * Y.t
+)
+"src/util.ml" 29 1512 1544 "src/util.ml" 29 1512 1551
+type(
+  X.t -> X.t -> bool
+)
+"src/util.ml" 29 1512 1552 "src/util.ml" 29 1512 1554
+type(
+  X.t
+)
+"src/util.ml" 29 1512 1555 "src/util.ml" 29 1512 1557
+type(
+  X.t
+)
+"src/util.ml" 29 1512 1544 "src/util.ml" 29 1512 1557
+type(
+  bool
+)
+"src/util.ml" 29 1512 1558 "src/util.ml" 29 1512 1560
+type(
+  bool -> bool -> bool
+)
+"src/util.ml" 29 1512 1561 "src/util.ml" 29 1512 1568
+type(
+  Y.t -> Y.t -> bool
+)
+"src/util.ml" 29 1512 1569 "src/util.ml" 29 1512 1571
+type(
+  Y.t
+)
+"src/util.ml" 29 1512 1572 "src/util.ml" 29 1512 1574
+type(
+  Y.t
+)
+"src/util.ml" 29 1512 1561 "src/util.ml" 29 1512 1574
+type(
+  bool
+)
+"src/util.ml" 29 1512 1544 "src/util.ml" 29 1512 1574
+type(
+  bool
+)
+"src/util.ml" 30 1575 1581 "src/util.ml" 30 1575 1585
+type(
+  X.t * Y.t -> int
+)
+"src/util.ml" 30 1575 1587 "src/util.ml" 30 1575 1588
+type(
+  X.t
+)
+"src/util.ml" 30 1575 1590 "src/util.ml" 30 1575 1591
+type(
+  Y.t
+)
+"src/util.ml" 30 1575 1586 "src/util.ml" 30 1575 1592
+type(
+  X.t * Y.t
+)
+"src/util.ml" 30 1575 1595 "src/util.ml" 30 1575 1607
+type(
+  int * int -> int
+)
+"src/util.ml" 30 1575 1609 "src/util.ml" 30 1575 1615
+type(
+  X.t -> int
+)
+"src/util.ml" 30 1575 1616 "src/util.ml" 30 1575 1617
+type(
+  X.t
+)
+"src/util.ml" 30 1575 1609 "src/util.ml" 30 1575 1617
+type(
+  int
+)
+"src/util.ml" 30 1575 1619 "src/util.ml" 30 1575 1625
+type(
+  Y.t -> int
+)
+"src/util.ml" 30 1575 1626 "src/util.ml" 30 1575 1627
+type(
+  Y.t
+)
+"src/util.ml" 30 1575 1619 "src/util.ml" 30 1575 1627
+type(
+  int
+)
+"src/util.ml" 30 1575 1608 "src/util.ml" 30 1575 1628
+type(
+  int * int
+)
+"src/util.ml" 30 1575 1595 "src/util.ml" 30 1575 1628
+type(
+  int
+)
+"src/util.ml" 42 1912 1918 "src/util.ml" 42 1912 1925
+type(
+  'a * V.t -> 'b * V.t -> int
+)
+"src/util.ml" 42 1912 1927 "src/util.ml" 42 1912 1928
+type(
+  'a
+)
+"src/util.ml" 42 1912 1930 "src/util.ml" 42 1912 1931
+type(
+  V.t
+)
+"src/util.ml" 42 1912 1926 "src/util.ml" 42 1912 1932
+type(
+  'a * V.t
+)
+"src/util.ml" 42 1912 1934 "src/util.ml" 42 1912 1935
+type(
+  'b
+)
+"src/util.ml" 42 1912 1937 "src/util.ml" 42 1912 1939
+type(
+  V.t
+)
+"src/util.ml" 42 1912 1933 "src/util.ml" 42 1912 1940
+type(
+  'b * V.t
+)
+"src/util.ml" 42 1912 1943 "src/util.ml" 42 1912 1952
+type(
+  V.t -> V.t -> int
+)
+"src/util.ml" 42 1912 1953 "src/util.ml" 42 1912 1954
+type(
+  V.t
+)
+"src/util.ml" 42 1912 1955 "src/util.ml" 42 1912 1957
+type(
+  V.t
+)
+"src/util.ml" 42 1912 1943 "src/util.ml" 42 1912 1957
+type(
+  int
+)
+"src/util.ml" 43 1958 1964 "src/util.ml" 43 1958 1968
+type(
+  'c * V.t -> int
+)
+"src/util.ml" 43 1958 1970 "src/util.ml" 43 1958 1971
+type(
+  'c
+)
+"src/util.ml" 43 1958 1973 "src/util.ml" 43 1958 1974
+type(
+  V.t
+)
+"src/util.ml" 43 1958 1969 "src/util.ml" 43 1958 1975
+type(
+  'c * V.t
+)
+"src/util.ml" 43 1958 1978 "src/util.ml" 43 1958 1984
+type(
+  V.t -> int
+)
+"src/util.ml" 43 1958 1985 "src/util.ml" 43 1958 1986
+type(
+  V.t
+)
+"src/util.ml" 43 1958 1978 "src/util.ml" 43 1958 1986
+type(
+  int
+)
+"src/util.ml" 44 1987 1993 "src/util.ml" 44 1987 1998
+type(
+  'd * V.t -> 'e * V.t -> bool
+)
+"src/util.ml" 44 1987 2000 "src/util.ml" 44 1987 2001
+type(
+  'd
+)
+"src/util.ml" 44 1987 2003 "src/util.ml" 44 1987 2004
+type(
+  V.t
+)
+"src/util.ml" 44 1987 1999 "src/util.ml" 44 1987 2005
+type(
+  'd * V.t
+)
+"src/util.ml" 44 1987 2007 "src/util.ml" 44 1987 2008
+type(
+  'e
+)
+"src/util.ml" 44 1987 2010 "src/util.ml" 44 1987 2012
+type(
+  V.t
+)
+"src/util.ml" 44 1987 2006 "src/util.ml" 44 1987 2013
+type(
+  'e * V.t
+)
+"src/util.ml" 44 1987 2016 "src/util.ml" 44 1987 2023
+type(
+  V.t -> V.t -> bool
+)
+"src/util.ml" 44 1987 2024 "src/util.ml" 44 1987 2025
+type(
+  V.t
+)
+"src/util.ml" 44 1987 2026 "src/util.ml" 44 1987 2028
+type(
+  V.t
+)
+"src/util.ml" 44 1987 2016 "src/util.ml" 44 1987 2028
+type(
+  bool
+)
+"src/util.ml" 45 2029 2035 "src/util.ml" 45 2029 2041
+type(
+  'f -> 'g -> 'f ref * 'g
+)
+"src/util.ml" 45 2029 2042 "src/util.ml" 45 2029 2043
+type(
+  'f
+)
+"src/util.ml" 45 2029 2044 "src/util.ml" 45 2029 2047
+type(
+  'g
+)
+"src/util.ml" 45 2029 2051 "src/util.ml" 45 2029 2054
+type(
+  'f -> 'f ref
+)
+"src/util.ml" 45 2029 2055 "src/util.ml" 45 2029 2056
+type(
+  'f
+)
+"src/util.ml" 45 2029 2051 "src/util.ml" 45 2029 2056
+type(
+  'f ref
+)
+"src/util.ml" 45 2029 2058 "src/util.ml" 45 2029 2061
+type(
+  'g
+)
+"src/util.ml" 45 2029 2050 "src/util.ml" 45 2029 2062
+type(
+  'f ref * 'g
+)
+"src/util.ml" 46 2063 2069 "src/util.ml" 46 2063 2074
+type(
+  'h * 'i -> 'i
+)
+"src/util.ml" 46 2063 2076 "src/util.ml" 46 2063 2077
+type(
+  'h
+)
+"src/util.ml" 46 2063 2079 "src/util.ml" 46 2063 2080
+type(
+  'i
+)
+"src/util.ml" 46 2063 2075 "src/util.ml" 46 2063 2081
+type(
+  'h * 'i
+)
+"src/util.ml" 46 2063 2084 "src/util.ml" 46 2063 2085
+type(
+  'i
+)
+"src/util.ml" 47 2086 2092 "src/util.ml" 47 2086 2096
+type(
+  'j ref * 'k -> 'j
+)
+"src/util.ml" 47 2086 2098 "src/util.ml" 47 2086 2099
+type(
+  'j ref
+)
+"src/util.ml" 47 2086 2101 "src/util.ml" 47 2086 2102
+type(
+  'k
+)
+"src/util.ml" 47 2086 2097 "src/util.ml" 47 2086 2103
+type(
+  'j ref * 'k
+)
+"src/util.ml" 47 2086 2106 "src/util.ml" 47 2086 2107
+type(
+  'j ref -> 'j
+)
+"src/util.ml" 47 2086 2107 "src/util.ml" 47 2086 2108
+type(
+  'j ref
+)
+"src/util.ml" 47 2086 2106 "src/util.ml" 47 2086 2108
+type(
+  'j
+)
+"src/util.ml" 48 2109 2115 "src/util.ml" 48 2109 2123
+type(
+  'l ref * 'm -> 'l -> unit
+)
+"src/util.ml" 48 2109 2125 "src/util.ml" 48 2109 2126
+type(
+  'l ref
+)
+"src/util.ml" 48 2109 2128 "src/util.ml" 48 2109 2129
+type(
+  'm
+)
+"src/util.ml" 48 2109 2124 "src/util.ml" 48 2109 2130
+type(
+  'l ref * 'm
+)
+"src/util.ml" 48 2109 2133 "src/util.ml" 48 2109 2137
+type(
+  'l ref -> 'l -> unit
+)
+"src/util.ml" 48 2109 2138 "src/util.ml" 48 2109 2139
+type(
+  'l ref
+)
+"src/util.ml" 48 2109 2133 "src/util.ml" 48 2109 2139
+type(
+  'l -> unit
+)

@@ -1,0 +1,16 @@
+"src/version.ml" 1 0 4 "src/version.ml" 1 0 11
+type(
+  string
+)
+"src/version.ml" 1 0 14 "src/version.ml" 1 0 19
+type(
+  string
+)
+"src/version.ml" 2 20 24 "src/version.ml" 2 20 28
+type(
+  string
+)
+"src/version.ml" 2 20 31 "src/version.ml" 2 20 74
+type(
+  string
+)
